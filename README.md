@@ -11,11 +11,6 @@ Sou o Vinícius (Vini), desenvolvedor fullstack focado em **Java**, **Python**, 
 
 <img align="right" height="160" src="https://gifdb.com/images/high/neymar-jr-football-no-way-ecplmoclmcvl3uy8.gif" />
 
-## 🚀 Minhas Estatísticas
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viniciusfonseca19&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&hide_border=false" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusfonseca19&layout=compact&theme=tokyonight&langs_count=6&hide_border=false" height="170" />
-</div>
 
 ---
 
@@ -84,7 +79,3 @@ Sou o Vinícius (Vini), desenvolvedor fullstack focado em **Java**, **Python**, 
 
 ---
 
-## 🐍 Animação da Cobra (Snake)
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-</div>
