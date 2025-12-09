@@ -71,6 +71,7 @@ Sou o Vinícius (Vini), desenvolvedor fullstack focado em **Java**, **Python**, 
 
 ---
 
+## 🐍 Animação da Cobra (Snake)
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 </div>
