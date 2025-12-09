@@ -50,21 +50,22 @@ Sou o Vinícius (Vini), desenvolvedor fullstack focado em **Java**, **Python**, 
 ---
 
 ## 🌐 Redes Sociais & Contato
-<div align="left">
+<div align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
+
   <a href="https://www.instagram.com/vn.f_19/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
   </a>
 
   <a href="https://discord.com/channels/viniepic77424">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="35" />
   </a>
 
   <a href="mailto:fonsecavinicius117@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
 
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-fonseca-026536327/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
 </div>
 
