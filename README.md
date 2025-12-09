@@ -19,6 +19,19 @@ Sou o Vinícius (Vini), desenvolvedor fullstack focado em **Java**, **Python**, 
 
 ---
 
+## ⚙️ Ferramentas & DevOps
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" height="40" />
+</div>
+
+---
+
 ## 🧠 Tecnologias que domino
 ### 🔹 Front-end
 <div>
@@ -75,4 +88,3 @@ Sou o Vinícius (Vini), desenvolvedor fullstack focado em **Java**, **Python**, 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 </div>
-
