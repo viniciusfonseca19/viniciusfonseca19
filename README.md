@@ -7,7 +7,7 @@
 ---
 
 ## 🎯 Sobre Mim
-Sou o Vinícius (Vini), desenvolvedor fullstack focado em **Java**, **Python**, **JavaScript** e **React**. Sempre buscando melhorar minhas habilidades, criar projetos reais e compartilhar conhecimento.
+Sou o Vinícius, desenvolvedor fullstack focado em **Java**, **Python**, **JavaScript** e **React**. Sempre buscando melhorar minhas habilidades, criar projetos reais e compartilhar conhecimento.
 
 <img align="right" height="160" src="https://gifdb.com/images/high/neymar-jr-football-no-way-ecplmoclmcvl3uy8.gif" />
 
