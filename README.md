@@ -6,6 +6,11 @@
 
 ---
 
+![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmR0dTZoYmdiamxtOHkzdnpob3Q0bG91Z3E1anEzemJwZGphMGJlNyZlcD12MV9naWZzX3NlYXJjaCZjdT1n/78XCFBGOlS6keY1Bil/giphy.gif)
+
+
+---
+
 ## 🎯 Sobre Mim
 Sou o Vinícius, desenvolvedor fullstack focado em **Java**, **Python**, **JavaScript** e **React**. Sempre buscando melhorar minhas habilidades, criar projetos reais e compartilhar conhecimento.
 
