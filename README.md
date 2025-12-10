@@ -76,6 +76,7 @@ Sou o Vinícius, desenvolvedor fullstack focado em **Java**, **Python**, **JavaS
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
 </div>
+
 ---
 
 <p align="center">
