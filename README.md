@@ -70,7 +70,7 @@ Sou o Vinícius (Vini), desenvolvedor fullstack focado em **Java**, **Python**, 
   </a>
 
   <a href="https://discord.com/channels/viniepic77424">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="35" />
+    <img src="https://raw.githubusercontent.com/venanciorodrigues-dev/venanciorodrigues-dev/output/github-contribution-grid-snake-dark.svg" height="35" />
   </a>
 
   <a href="mailto:fonsecavinicius117@gmail.com">
@@ -81,6 +81,10 @@ Sou o Vinícius (Vini), desenvolvedor fullstack focado em **Java**, **Python**, 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
 </div>
+---
+<p align="center">
+  <img src="" width="850">
+</p>
 
 ---
 
