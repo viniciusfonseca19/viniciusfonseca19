@@ -1,5 +1,10 @@
 <!-- README estilizado e organizado -->
+---
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUzNzE5MzcsIm5iZiI6MTc2NTM3MTYzNywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjEwVDEzMDAzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZmNWIwNmMxYTc3YzQyMzBjMDJkY2ZhOWUwYjhjODUzNGFiZGQ0Y2MwMGQ2YmIxNTM2NzgwNjY5NTc5YTNlYTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.yDUiK8P9GzLySS4xnGlTUPnqr08UqlHax7ievwfcQ9o" width="350">
+</p>
 
+---
 <h1 align="center">✨ Vinícius Fonseca — Desenvolvedor Fullstack ✨</h1>
 
 <p align="center">Estudante de Técnico em Informática • Front-end & Back-end • Apaixonado por tecnologia e evolução constante</p>
