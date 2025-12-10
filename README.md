@@ -7,12 +7,11 @@
 ---
 
 ## 🎯 Sobre Mim
-Sou o Vinícius, desenvolvedor fullstack focado em **Java**, **Python**, **JavaScript** e **React**. Sempre buscando melhorar minhas habilidades, criar projetos reais e compartilhar conhecimento.
+Sou o Vinícius (Vini), desenvolvedor fullstack focado em **Java**, **Python**, **JavaScript** e **React**. Sempre buscando melhorar minhas habilidades, criar projetos reais e compartilhar conhecimento.
 
 <img align="right" height="160" src="https://gifdb.com/images/high/neymar-jr-football-no-way-ecplmoclmcvl3uy8.gif" />
 
 
----
 
 ## ⚙️ Ferramentas & DevOps
 <div>
@@ -73,15 +72,9 @@ Sou o Vinícius, desenvolvedor fullstack focado em **Java**, **Python**, **JavaS
   </a>
 
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-fonseca-026536327/">
-    <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUzNzE5MzcsIm5iZiI6MTc2NTM3MTYzNywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjEwVDEzMDAzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZmNWIwNmMxYTc3YzQyMzBjMDJkY2ZhOWUwYjhjODUzNGFiZGQ0Y2MwMGQ2YmIxNTM2NzgwNjY5NTc5YTNlYTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.yDUiK8P9GzLySS4xnGlTUPnqr08UqlHax7ievwfcQ9o" height="35" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
 </div>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmR0dTZoYmdiamxtOHkzdnpob3Q0bG91Z3E1anEzemJwZGphMGJlNyZlcD12MV9naWZzX3NlYXJjaCZjdT1n/78XCFBGOlS6keY1Bil/giphy.gif" width="350">
-</p>
 
 ---
 
