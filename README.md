@@ -20,7 +20,7 @@ Sou o Vinícius (Vini), desenvolvedor fullstack focado em **Java**, **Python**, 
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Aws_logo.svg" height="40" />
 </div>
 
 ---
