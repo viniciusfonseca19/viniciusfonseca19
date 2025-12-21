@@ -39,7 +39,7 @@ Sou o Vinícius (Vini), desenvolvedor fullstack focado em **Java**, **Python**, 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" />
 </div>
 
 ### 🔹 Banco de Dados
