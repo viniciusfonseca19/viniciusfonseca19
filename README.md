@@ -6,7 +6,7 @@
 ---
 
 ## 🎯 Sobre Mim
-Sou o Vinícius (Vini), desenvolvedor fullstack focado em **Java**, **Python**, **JavaScript** e **React**. Sempre buscando melhorar minhas habilidades, criar projetos reais e compartilhar conhecimento.
+Sou o Vinícius (Vini), desenvolvedor fullstack focado em **Java**, **Spring**, **JavaScript** e **React**. Sempre buscando melhorar minhas habilidades, criar projetos reais e compartilhar conhecimento.
 
 
 
