@@ -8,9 +8,7 @@
 ---
 
 ## 🎯 Sobre mim
-Sou **Vinícius Fonseca**, desenvolvedor com foco em **Java e Spring**, interessado em desenvolvimento de **APIs REST** e aplicações web.
-
-Tenho experiência em **front-end**, com prioridade em **Angular**, além de React, TypeScript e JavaScript. Busco evoluir constantemente e aplicar boas práticas no dia a dia.
+Sou **Vinícius Fonseca**, desenvolvedor com foco em **Java e Spring**, interessado em desenvolvimento de **APIs REST** e aplicações web. Tenho experiência em **front-end**, com prioridade em **Angular**, além de React, TypeScript e JavaScript. Busco evoluir constantemente e aplicar boas práticas no dia a dia.
 
 ---
 
@@ -60,7 +58,7 @@ Tenho experiência em **front-end**, com prioridade em **Angular**, além de Rea
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-fonseca-026536327/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:fonsecavinicius117@gmail.com">
+  <a href="mailto:vinifonsecadev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
