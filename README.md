@@ -58,6 +58,7 @@ Sou **Vinícius Fonseca**, desenvolvedor com foco em **Java e Spring**, interess
   <img src="https://github-readme-stats.vercel.app/api?username=viniciusfonseca19&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfonseca19&layout=compact&theme=github_dark" />
 </div>
+
 ---
 
 ## 🌐 Contato
