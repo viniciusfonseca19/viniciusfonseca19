@@ -12,9 +12,9 @@ Sou **Vinícius Fonseca**, desenvolvedor com foco em **Java e Spring**, interess
 
 ---
 
-<h2>🧠 Tecnologias</h2>
+## 🧠 Tecnologias
 
-<h3>☕ Back-end</h3>
+### ☕ Back-end
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -23,7 +23,7 @@ Sou **Vinícius Fonseca**, desenvolvedor com foco em **Java e Spring**, interess
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
-<h3>🌐 Front-end</h3>
+### 🌐 Front-end
 <div>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-00D8FF?style=for-the-badge&logo=react&logoColor=black"/>
@@ -31,16 +31,21 @@ Sou **Vinícius Fonseca**, desenvolvedor com foco em **Java e Spring**, interess
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
-<h3>⚙️ Ferramentas</h3>
+### ⚙️ Ferramentas
 <div>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
   <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </div>
 
 ---
+
 ## 📊 Estatísticas GitHub
 
 <div align="center">
@@ -53,9 +58,7 @@ Sou **Vinícius Fonseca**, desenvolvedor com foco em **Java e Spring**, interess
   <img src="https://github-readme-stats.vercel.app/api?username=viniciusfonseca19&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfonseca19&layout=compact&theme=github_dark" />
 </div>
-
 ---
-
 
 ## 🌐 Contato
 <div align="left">
