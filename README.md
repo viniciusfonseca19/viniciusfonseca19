@@ -49,7 +49,6 @@ Sou **Vinícius Fonseca**, desenvolvedor com foco em **Java e Spring**, interess
 ## 📊 Estatísticas do GitHub
 <div align="center">
 
-  <!-- DUAS MENORES LADO A LADO -->
   <img width="420"
        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viniciusfonseca19&theme=dark"/>
 
@@ -58,14 +57,12 @@ Sou **Vinícius Fonseca**, desenvolvedor com foco em **Java e Spring**, interess
 
   <br/><br/>
 
-  <!-- CALENDÁRIO DE COMMITS -->
   <img
     src="https://ghchart.rshah.org/viniciusfonseca19"
     alt="GitHub Contribution Chart"/>
 
   <br/><br/>
 
-  <!-- CARD GRANDE FINAL -->
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusfonseca19&theme=dark"/>
 
