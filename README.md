@@ -1,19 +1,12 @@
 # 🧑‍💻 Vinícius Fonseca
 ### Desenvolvedor Backend | Fullstack
-
 🎓 Técnico em Informática  
 ☕ Java • Spring  
-🌐 Angular • React • TypeScript • JavaScript  
-
 ---
-
 ## 🎯 Sobre mim
-Sou **Vinícius Fonseca**, desenvolvedor com foco em **Java e Spring**, interessado em desenvolvimento de **APIs REST** e aplicações web. Tenho experiência em **front-end**, com prioridade em **Angular**, além de React, TypeScript e JavaScript. Busco evoluir constantemente e aplicar boas práticas no dia a dia.
-
+Sou **Vinícius Fonseca**, desenvolvedor com foco em **Java e Spring**, interessado em desenvolvimento de **APIs REST** e aplicações web. Tenho experiência em **front-end** com HTML, CSS e JavaScript. Atualmente estou estudando **React** para expandir minhas habilidades. Busco evoluir constantemente e aplicar boas práticas no dia a dia.
 ---
-
 ## 🧠 Tecnologias
-
 ### ☕ Back-end
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -25,10 +18,14 @@ Sou **Vinícius Fonseca**, desenvolvedor com foco em **Java e Spring**, interess
 
 ### 🌐 Front-end
 <div>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-00D8FF?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</div>
+
+### 📚 Estudando
+<div>
+  <img src="https://img.shields.io/badge/React-00D8FF?style=for-the-badge&logo=react&logoColor=black"/>
 </div>
 
 ### ⚙️ Ferramentas & DevOps
@@ -45,33 +42,18 @@ Sou **Vinícius Fonseca**, desenvolvedor com foco em **Java e Spring**, interess
 </div>
 
 ---
-
 ## 📊 Estatísticas do GitHub
 <div align="center">
-
   <img width="420"
        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viniciusfonseca19&theme=dark"/>
-
   <img width="420"
        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniciusfonseca19&theme=dark"/>
-
   <br/><br/>
-
-  <img
-    src="https://ghchart.rshah.org/viniciusfonseca19"
-    alt="GitHub Contribution Chart"/>
-
-  <br/><br/>
-
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusfonseca19&theme=dark"/>
-
 </div>
 
-
-
 ---
-
 ## 🌐 Contato
 <div align="left">
   <a href="https://www.instagram.com/vn.f_19/">
@@ -86,8 +68,7 @@ Sou **Vinícius Fonseca**, desenvolvedor com foco em **Java e Spring**, interess
 </div>
 
 ---
-
 <p align="center">
-  <em>“Aqueles que conseguem imaginar qualquer coisa podem criar o impossível.”</em><br>
+  <em>"Aqueles que conseguem imaginar qualquer coisa podem criar o impossível."</em><br>
   — Alan Turing
 </p>
