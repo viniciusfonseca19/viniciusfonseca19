@@ -34,7 +34,7 @@ Sou **Vinícius Fonseca**, desenvolvedor com foco em **Java, Spring e Python**, 
 
 ---
 
-### 🚀 Bibliotecas & Frameworks
+### 🚀 Frameworks
 <div>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white"/>
