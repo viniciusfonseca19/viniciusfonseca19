@@ -1,10 +1,6 @@
 # 🧑‍💻 Vinícius Fonseca
 ---
 
-# Fundador KODE | Desenvolvimento Web
-
----
-
 ### Desenvolvedor Backend | Fullstack
 🎓 Técnico em Informática  
 ☕ Java • 🐍 Python  
