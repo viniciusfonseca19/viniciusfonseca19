@@ -4,6 +4,7 @@
 ### Desenvolvedor Backend | Fullstack
 🎓 Técnico em Informática  
 ☕ Java • 🐍 Python  
+
 ---
 
 ## 🎯 Sobre mim
@@ -33,10 +34,7 @@ Sou **Vinícius Fonseca**, desenvolvedor com foco em **Java, Spring e Python**, 
 ### 🚀 Frameworks
 <div>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </div>
 
 ---
@@ -77,6 +75,7 @@ Sou **Vinícius Fonseca**, desenvolvedor com foco em **Java, Spring e Python**, 
 </div>
 
 ---
+
 ## 🌐 Contato
 <div align="left">
   <a href="https://www.instagram.com/vn.f_19/">
@@ -91,6 +90,7 @@ Sou **Vinícius Fonseca**, desenvolvedor com foco em **Java, Spring e Python**, 
 </div>
 
 ---
+
 <p align="center">
   <em>"Aqueles que conseguem imaginar qualquer coisa podem criar o impossível."</em><br>
   — Alan Turing
