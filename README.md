@@ -58,22 +58,16 @@
 
 # 📊 Estatísticas do GitHub
 
-<p align="center">
+<div align="center">
 
-<img width="400"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viniciusfonseca19&theme=dark"/>
+<img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viniciusfonseca19&theme=dark"/>
+<img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniciusfonseca19&theme=dark"/>
 
-<img width="400"
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniciusfonseca19&theme=dark"/>
+<br><br>
 
-</p>
+<img width="860" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusfonseca19&theme=dark"/>
 
-<p align="center">
-
-<img width="820"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusfonseca19&theme=dark"/>
-
-</p>
+</div>
 
 ---
 
@@ -83,7 +77,7 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 
 <a href="https://github.com/viniciusfonseca19/school-flow">
 
-<img src="https://img.shields.io/badge/SchoolFlow-%20Spring%20Boot%20&%20React-blue?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/SchoolFlow-Java%20|%20Spring%20Boot%20|%20PostgreSQL-blue?style=for-the-badge&logo=github"/>
 
 </a>
 
@@ -112,3 +106,5 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
+
+</p>
