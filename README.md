@@ -72,20 +72,22 @@
 
 # 📊 Estatísticas do GitHub
 
-<div align="center">
+<p align="center">
 
-<img width="420"
+<img width="400"
 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viniciusfonseca19&theme=dark"/>
 
-<img width="420"
+<img width="400"
 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniciusfonseca19&theme=dark"/>
 
-<br/><br/>
+</p>
 
-<img
+<p align="center">
+
+<img width="820"
 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusfonseca19&theme=dark"/>
 
-</div>
+</p>
 
 ---
 
