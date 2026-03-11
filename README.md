@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Vinícius Fonseca</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+Python;Building+REST+APIs;Always+learning+new+technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Java+%7C+Python;Building+REST+APIs;Always+learning+new+technologies"/>
 </p>
 
 <p align="center">
