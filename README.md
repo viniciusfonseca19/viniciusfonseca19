@@ -1,11 +1,11 @@
 <h1 align="center">👨‍💻 Vinícius Fonseca</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Java+%7C+Python;Building+Scalable+APIs;Future+Data+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Building+Scalable+APIs;Java+%7C+Python;Focused+on+Performance+and+Clean+Code;"/>
 </p>
 
 <p align="center">
-📍 Ceará, Brasil
+📍 Brasil | CE
 </p>
 
 ---
