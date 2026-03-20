@@ -23,7 +23,7 @@
 ### ⚙️ Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi" />
+<img src="https://skillicons.dev/icons?i=java,python,spring" />
 </p>
 
 ---
