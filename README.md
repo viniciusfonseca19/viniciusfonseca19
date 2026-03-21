@@ -1,19 +1,20 @@
 <h1 align="center">👨‍💻 Vinícius Fonseca</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Building+Scalable+APIs;Java+%7C+Python;Focused+on+Performance+and+Clean+Code;"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Backend+Developer;Building+Scalable+APIs;Java+%7C+Python"/>
 </p>
 
 <p align="center">
-📍 Brasil | CE
+📍 Ceará, Brasil
 </p>
 
 ---
 
 ## 💡 Sobre mim
 
-💻 Desenvolvedor Backend focado em APIs REST   
-📚 Estudando arquitetura, sistemas distribuídos e boas práticas  
+💻 Desenvolvedor Backend focado em construção de APIs REST escaláveis  
+⚙️ Experiência com Java, Spring Boot e Banco de Dados 
+📚 Estudando arquitetura de software e sistemas distribuídos  
 ⚡ Focado em performance, escalabilidade e código limpo  
 
 ---
@@ -21,23 +22,13 @@
 ## 🚀 Tech Stack
 
 ### ⚙️ Backend
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,spring" />
-</p>
-
----
-
-### 🎨 Frontend 
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,js,html,css" />
+<img src="https://skillicons.dev/icons?i=java,spring,python" />
 </p>
 
 ---
 
 ### 🗄️ Banco de Dados
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
@@ -45,15 +36,13 @@
 ---
 
 ### ⚡ DevOps / Ferramentas
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman,maven,vercel" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,maven" />
 </p>
 
 ---
 
 ### 💻 Ambiente de Desenvolvimento
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=vscode,idea" />
 </p>
@@ -64,27 +53,29 @@
 
 <div align="center">
 
-<img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viniciusfonseca19&theme=dark"/>
-<img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniciusfonseca19&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusfonseca19&show_icons=true&theme=dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfonseca19&layout=compact&theme=dark&hide_border=true"/>
 
 <br><br>
 
-<img width="860" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusfonseca19&theme=dark"/>
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusfonseca19&theme=dark"/>
 
 </div>
 
 ---
 
-## 🚀 Principais Projetos
+## 🚀 Principais projetos
 
 <p align="center">
-
-<a href="https://github.com/viniciusfonseca19/school-flow">
-
 <img src="https://img.shields.io/badge/SchoolFlow-React%20|%20Spring%20Boot%20|%20PostgreSQL-blue?style=for-the-badge&logo=github"/>
+</p>
 
-</a>
+---
 
+## 📈 Contribuições
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=viniciusfonseca19&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
