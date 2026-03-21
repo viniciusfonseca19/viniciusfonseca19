@@ -67,7 +67,11 @@
 ## 🚀 Principais projetos
 
 <p align="center">
+
+<a href="https://github.com/viniciusfonseca19/school-flow.git">
 <img src="https://img.shields.io/badge/SchoolFlow-React%20|%20Spring%20Boot%20|%20PostgreSQL-blue?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 ---
