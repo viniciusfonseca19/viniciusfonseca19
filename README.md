@@ -77,9 +77,8 @@
 ---
 
 ## 📈 Contribuições
-
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=viniciusfonseca19&theme=react-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viniciusfonseca19&theme=react-dark&hide_border=true&color=00FF41&line=00FF41&point=00FF41&area=true&area_color=00FF41"/>
 </p>
 
 ---
