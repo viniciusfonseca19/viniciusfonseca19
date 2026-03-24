@@ -10,14 +10,6 @@
 
 ---
 
-## 💡 Sobre mim
-
-💻 Desenvolvedor Backend focado em construção de APIs REST escaláveis  
-⚙️ Experiência com Java, Spring Boot e Banco de Dados 
-📚 Estudando arquitetura de software e sistemas distribuídos  
-⚡ Focado em performance, escalabilidade e código limpo  
-
----
 
 ## 🚀 Tech Stack
 
