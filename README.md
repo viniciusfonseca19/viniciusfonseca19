@@ -26,7 +26,7 @@ public class ViniciusFonseca {
     private final String cargo     = "Backend Developer";
     private final String local     = "Ceará, Brasil 🇧🇷";
     private final String foco      = "APIs Escaláveis & Sistemas Distribuídos";
-    private final String objetivo  = "Estudante de Técnico em Infórmatica";
+    private final String nivelAtual  = "Estudante de Técnico em Infórmatica";
 
     private final String[] stackPrincipal = { "Java", "Spring Boot", "Python" };
     private final String[] bancosDeDados  = { "PostgreSQL", "MySQL", "MongoDB" };
