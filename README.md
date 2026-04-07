@@ -47,9 +47,14 @@ public class ViniciusFonseca {
 <!-- TECH STACK -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" height="28" /> Tech Stack
 
-### ⚙️ Linguagens
+### ⚙️ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring&theme=dark" height="48"/>
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,javascript,html,css" height="48"/>
 </p>
 
 ### 🗄️ Bancos de Dados
