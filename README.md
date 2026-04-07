@@ -49,12 +49,7 @@ public class ViniciusFonseca {
 
 ### ⚙️ Linguagens
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python&theme=dark" height="48"/>
-</p>
-
-### 🚀 Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="48"/>
+  <img src="https://skillicons.dev/icons?i=java,spring&theme=dark" height="48"/>
 </p>
 
 ### 🗄️ Bancos de Dados
