@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0077b6&height=200&section=header&text=Vinícius%20Fonseca&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Building%20Scalable%20Systems&descAlignY=58&descSize=18&descColor=90e0ef&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Backend+Developer;Building+Scalable+Systems;Java+%7C+Python"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Backend+Developer;Building+Scalable+Systems;Java+%7C+React"/>
 
 <br/>
 
