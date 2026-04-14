@@ -59,7 +59,7 @@ public class ViniciusFonseca {
 
 ### 🗄️ Bancos de Dados
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb&theme=dark" height="48"/>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql&theme=dark" height="48"/>
 </p>
 
 ### 🛠️ DevOps & Ferramentas
