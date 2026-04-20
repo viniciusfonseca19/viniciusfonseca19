@@ -79,8 +79,32 @@ public class ViniciusFonseca {
 
 <div align="center">
 
+<!-- FULLSTACK -->
+<p align="left"><sub>⬡ APLICAÇÕES FULLSTACK</sub></p>
+
 <a href="https://github.com/viniciusfonseca19/school-flow">
-  <img src="https://img.shields.io/badge/🏫%20SchoolFlow-React%20·%20Spring%20Boot%20·%20PostgreSQL-00b4d8?style=for-the-badge&labelColor=0d1117" height="36"/>
+  <img src="https://img.shields.io/badge/🏫%20SchoolFlow-React%20·%20Spring%20Boot%20·%20PostgreSQL-00b4d8?style=for-the-badge&labelColor=0d1117" height="34"/>
+</a>
+&nbsp;
+<a href="https://github.com/viniciusfonseca19/barber-elite">
+  <img src="https://img.shields.io/badge/💈%20BarberElite-Spring%20·%20React%20·%20Supabase-00b4d8?style=for-the-badge&labelColor=0d1117" height="34"/>
+</a>
+
+<br/><br/>
+
+<!-- APIS -->
+<p align="left"><sub>⬡ APIS & SERVIÇOS BACKEND</sub></p>
+
+<a href="https://github.com/viniciusfonseca19/process-management-api">
+  <img src="https://img.shields.io/badge/⚙️%20Process%20Management-Spring%20·%20MySQL%20·%20Docker-7c3aed?style=for-the-badge&labelColor=0d1117" height="34"/>
+</a>
+&nbsp;
+<a href="https://github.com/viniciusfonseca19/api-bank-system">
+  <img src="https://img.shields.io/badge/🏦%20Bank%20System-Spring%20·%20MySQL%20·%20Swagger-7c3aed?style=for-the-badge&labelColor=0d1117" height="34"/>
+</a>
+&nbsp;
+<a href="https://github.com/viniciusfonseca19/api-subscription-system">
+  <img src="https://img.shields.io/badge/🔄%20Subscription%20System-Spring%20·%20PostgreSQL-7c3aed?style=for-the-badge&labelColor=0d1117" height="34"/>
 </a>
 
 </div>
