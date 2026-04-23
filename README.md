@@ -241,6 +241,10 @@ public final class ViniciusFonseca implements Developer {
 <a href="https://github.com/viniciusfonseca19" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-viniciusfonseca19-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+&nbsp;&nbsp;
+<a href="https://portfolio-vinifonseca.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 <br/><br/>
 
