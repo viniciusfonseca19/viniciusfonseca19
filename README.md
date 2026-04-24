@@ -74,7 +74,7 @@ public final class ViniciusFonseca implements Developer {
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python&theme=dark" height="48"/>
+  <img src="https://skillicons.dev/icons?i=java,spring&theme=dark" height="48"/>
 </p>
 
 ### 🌐 Frontend
