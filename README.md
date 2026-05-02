@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D9F5&center=true&vCenter=true&repeat=true&width=700&lines=Backend+Developer+%F0%9F%9A%80;Building+APIs+that+never+go+down+%E2%9A%99%EF%B8%8F;Java+%7C+Spring+Boot+%7C+React;From+Cear%C3%A1+to+the+World+%F0%9F%8C%8E;Scalable+Systems+%7C+Clean+Architecture" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D9F5&center=true&vCenter=true&repeat=true&width=700&lines=Backend+Developer+%F0%9F%9A%80;Building+APIs+that+never+go+down+%E2%9A%99%EF%B8%8F;Java+%7C+Spring+Boot+%7C+Node.js+%7C+React;From+Cear%C3%A1+to+the+World+%F0%9F%8C%8E;Scalable+Systems+%7C+Clean+Architecture" alt="Typing SVG" />
 
 </div>
 
@@ -37,7 +37,7 @@ public final class ViniciusFonseca implements Developer {
     private static final String FOCUS    = "APIs Escaláveis & Sistemas Distribuídos";
 
     // ─── Core Stack ────────────────────────────────────────────────────────
-    private final String[] backend    = { "Java", "Spring Boot", "Python" };
+    private final String[] backend    = { "Java", "Spring Boot", "Node.js", "Express" };
     private final String[] frontend   = { "React", "JavaScript", "HTML/CSS" };
     private final String[] databases  = { "PostgreSQL", "MySQL" };
     private final String[] devops     = { "Docker", "Git", "GitHub", "Maven" };
@@ -74,7 +74,7 @@ public final class ViniciusFonseca implements Developer {
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring&theme=dark" height="48"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&theme=dark" height="48"/>
 </p>
 
 ### 🌐 Frontend
