@@ -52,7 +52,7 @@ public final class ViniciusFonseca implements Developer {
         return Map.of(
             "aprendendo",      "Clean Architecture + DDD + System Design",
             "meta_2026",       "Múltiplos projetos em produção",
-            "filosofia",       "Build it right, then build it fast",
+            "filosofia",       "A genialidade é 1% inspiração e 99% transpiração." – Thomas Edison",
             "disponivel_para", "Estágios & Oportunidades remotas"
         );
     }
@@ -190,28 +190,6 @@ API de assinaturas com controle de planos, renovações automáticas e históric
 
 ---
 
-## 🏆 Conquistas
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=viniciusfonseca19&theme=tokyonight&no-frame=true&column=7&margin-w=8)](https://github.com/viniciusfonseca19)
-
-</div>
-
----
-
-## 🌱 Em aprendizado agora
-
-```
-📦  Clean Architecture & Domain-Driven Design (DDD)
-🔐  Spring Security avançado — OAuth2, JWT, refresh tokens
-🧪  Testes de verdade — JUnit 5, Mockito, TDD na prática
-📐  System Design — projetar sistemas que escalam
-☁️  Conceitos de Cloud e infraestrutura (próximo passo)
-```
-
----
-
 ## 📬 Vamos conversar?
 
 <div align="center">
@@ -231,7 +209,7 @@ API de assinaturas com controle de planos, renovações automáticas e históric
 
 <br/>
 
-> *"Build it right, then build it fast."*
+> *"A genialidade é 1% inspiração e 99% transpiração." – Thomas Edison*
 
 </div>
 
