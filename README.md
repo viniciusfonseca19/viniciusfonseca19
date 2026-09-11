@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:0a0a1a,80:00b4d8,100:0077b6&height=240&section=header&text=Vinícius%20Fonseca&fontSize=62&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=Backend%20Developer%20·%20Ceará%2C%20Brasil%20🇧🇷&descAlignY=62&descSize=17&descColor=90e0ef&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:0a0a1a,80:00b4c8,100:0077b6&height=240&section=header&text=Vinícius%20Fonseca&fontSize=62&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=Backend%20Developer%20·%20Ceará%2C%20Brasil%20🇧🇷&descAlignY=62&descSize=17&descColor=90e0ef&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D9F5&center=true&vCenter=true&repeat=true&width=700&lines=Backend+Developer+%F0%9F%9A%80;Building+APIs+that+never+go+down+%E2%9A%99%EF%B8%8F;Java+%7C+Spring+Boot+%7C+Vue+%7C+JavaScript;From+Cear%C3%A1+to+the+World+%F0%9F%8C%8E;Scalable+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D9F5&center=true&vCenter=true&repeat=true&width=700&lines=Backend+Developer+%F0%9F%9A%80;Building+APIs+that+never+go+down+%E2%9A%A1%EF%B8%8F;Java+%7C+Spring+Boot+%7C+Vue+%7C+JavaScript;From+Cear%C3%A1+to+the+World+%F0%9F%8C%8E;Scalable+Systems" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-fonseca-026536327/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:vinifonsecadev@gmail.com)
@@ -128,15 +128,15 @@ Sistema de gestão escolar completo — controle de alunos, turmas e notas. Arqu
 
 <td width="33%" valign="top">
 
-### ⚙️ Process Management API
+### 📦 CRUD de Produtos
 
-API REST para gerenciamento de processos internos com **autenticação JWT**, containerização Docker e documentação Swagger completa.
+Projeto desenvolvido para treinar a criação de **Controllers** e o desenvolvimento de **requisições HTTP** utilizando Spring Boot. Implementa operações CRUD para gerenciamento de produtos.
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square\&logo=spring\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square\&logo=mysql\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 
-[![Ver](https://img.shields.io/badge/Ver%20Repo→-0d1117?style=flat-square\&logo=github\&logoColor=white)](https://github.com/viniciusfonseca19/process-management-api)
+[![Ver](https://img.shields.io/badge/Ver%20Repo→-0d1117?style=flat-square\&logo=github\&logoColor=white)](https://github.com/viniciusfonseca19/crud-produtos.git)
 
 </td>
 
@@ -156,14 +156,15 @@ Sistema bancário com operações de depósito, saque, transferência e extrato.
 
 <td width="33%" valign="top">
 
-### 🔄 Subscription System
+### 🎓 Projeto Final POO
 
-API de assinaturas com controle de planos, renovações automáticas e histórico de pagamentos. Fluxo de billing estruturado do zero.
+Projeto desenvolvido com **Java Swing** e **arquitetura MVC**, realizado como trabalho final do semestre para aplicar e testar os conhecimentos adquiridos na disciplina de **Programação Orientada a Objetos**.
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square\&logo=spring\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![Swing](https://img.shields.io/badge/Java_Swing-5382A1?style=flat-square\&logo=java\&logoColor=white)
+![MVC](https://img.shields.io/badge/Architecture-MVC-181717?style=flat-square)
 
-[![Ver](https://img.shields.io/badge/Ver%20Repo→-0d1117?style=flat-square\&logo=github\&logoColor=white)](https://github.com/viniciusfonseca19/api-subscription-system)
+[![Ver](https://img.shields.io/badge/Ver%20Repo→-0d1117?style=flat-square\&logo=github\&logoColor=white)](https://github.com/viniciusfonseca19/projeto-final-poo.git)
 
 </td>
 
@@ -175,7 +176,7 @@ API de assinaturas com controle de planos, renovações automáticas e históric
 ## 📊 GitHub Stats
 
 <div align="center">
-    
+
 <a href="https://github.com/viniciusfonseca19">
   <img height="175em" src="https://github-stats-extended.vercel.app/api?username=viniciusfonseca19&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 </a>
@@ -204,11 +205,11 @@ API de assinaturas com controle de planos, renovações automáticas e históric
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinícius%20Fonseca-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-fonseca-026536327/)
- 
+
 [![Gmail](https://img.shields.io/badge/Gmail-vinifonsecadev@gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:vinifonsecadev@gmail.com)
- 
+
 [![GitHub](https://img.shields.io/badge/GitHub-viniciusfonseca19-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/viniciusfonseca19)
- 
+
 [![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://portfolio-vinifonseca.vercel.app)
 
 <br/>
