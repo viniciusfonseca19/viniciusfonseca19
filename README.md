@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D9F5&center=true&vCenter=true&repeat=true&width=700&lines=Backend+Developer+%F0%9F%9A%80;Building+APIs+that+never+go+down+%E2%9A%99%EF%B8%8F;Java+%7C+Spring+Boot+%7C+Vue+%7C+JavaScript;From+Cear%C3%A1+to+the+World+%F0%9F%8C%8E;Scalable+Systems+%7C+Clean+Architecture" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D9F5&center=true&vCenter=true&repeat=true&width=700&lines=Backend+Developer+%F0%9F%9A%80;Building+APIs+that+never+go+down+%E2%9A%99%EF%B8%8F;Java+%7C+Spring+Boot+%7C+Vue+%7C+JavaScript;From+Cear%C3%A1+to+the+World+%F0%9F%8C%8E;Scalable+Systems" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-fonseca-026536327/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:vinifonsecadev@gmail.com)
@@ -17,7 +17,7 @@
 
 ---
 
-## `$ whoami`
+## `Sobre mim`
 
 ```java
 /**
@@ -35,23 +35,23 @@ public final class ViniciusFonseca implements Developer {
     private static final String ROLE     = "Backend Developer";
     private static final String LOCATION = "Ceará, Brasil 🇧🇷";
     private static final String LEVEL    = "Técnico em Informática (em formação)";
-    private static final String FOCUS    = "APIs Escaláveis & Arquitetura de Software";
+    private static final String FOCUS    = "APIs & CRUDs";
 
     private final String[] backend   = { "Java", "Spring Boot" };
     private final String[] frontend  = { "Vue", "JavaScript", "HTML/CSS" };
     private final String[] databases = { "PostgreSQL", "MySQL" };
-    private final String[] devops    = { "Docker", "Git", "GitHub", "Maven" };
+    private final String[] devops    = { "Git", "GitHub", "Maven" };
 
     @Override
     public String currentMission() {
-        return "Construindo sistemas que performam em escala — do Ceará para o mundo. 🌎";
+        return "Construindo sistemas incríveis — do Ceará para o mundo. 🌎";
     }
 
     @Override
     public Map<String, String> now() {
         return Map.of(
-            "aprendendo",      "Clean Architecture + DDD + System Design",
-            "meta_2026",       "Múltiplos projetos em produção",
+            "aprendendo",      "Arquitetura em camadas, Spring Boot, VueJS",
+            "meta_2026",       "Preparação para o estágio",
             "filosofia",       "A genialidade é 1% inspiração e 99% transpiração." – Thomas Edison",
             "disponivel_para", "Estágios & Oportunidades remotas"
         );
