@@ -142,15 +142,17 @@ Projeto desenvolvido para treinar a criação de **Controllers** e o desenvolvim
 
 <td width="33%" valign="top">
 
-### 🏦 Bank System API
+### 🏋️ Sistema de Academia
 
-Sistema bancário com operações de depósito, saque, transferência e extrato. **Validações de negócio robustas** e tratamento de erros consistente.
+Sistema para gerenciamento de academia completo, desenvolvido com foco em estudos de **JPA** e **Spring Security**.
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square\&logo=spring\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square\&logo=mysql\&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square\&logo=swagger\&logoColor=black)
 
-[![Ver](https://img.shields.io/badge/Ver%20Repo→-0d1117?style=flat-square\&logo=github\&logoColor=white)](https://github.com/viniciusfonseca19/api-bank-system)
+[![Ver](https://img.shields.io/badge/Ver%20Repo→-0d1117?style=flat-square\&logo=github\&logoColor=white)](COLOQUE_AQUI_O_LINK_DO_REPOSITORIO)
 
 </td>
 
