@@ -63,7 +63,7 @@ public final class ViniciusFonseca implements Developer {
 
 ## 🛠️ Stack
 
-> Ferramentas que uso para construir coisas que funcionam de verdade.
+> Ferramentas que uso para construir sistemas que funcionam de verdade.
 
 <div align="center">
 
@@ -81,7 +81,7 @@ public final class ViniciusFonseca implements Developer {
 
 **DevOps & Ferramentas**
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman,maven&theme=dark" height="44"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,maven&theme=dark" height="44"/>
 
 **Ambiente de Desenvolvimento**
 
