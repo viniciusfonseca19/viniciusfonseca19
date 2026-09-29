@@ -152,7 +152,7 @@ Sistema para gerenciamento de academia completo, desenvolvido com foco em estudo
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square\&logo=mysql\&logoColor=white)
 
-[![Ver](https://img.shields.io/badge/Ver%20Repo→-0d1117?style=flat-square\&logo=github\&logoColor=white)](COLOQUE_AQUI_O_LINK_DO_REPOSITORIO)
+[![Ver](https://img.shields.io/badge/Ver%20Repo→-0d1117?style=flat-square\&logo=github\&logoColor=white)](https://github.com/viniciusfonseca19/crud-produtos.git)
 
 </td>
 
